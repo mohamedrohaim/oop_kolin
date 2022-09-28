@@ -13,4 +13,6 @@ fun main() {
 
     }
     obj.show()
+    //polymorphism with anonymous class
+    A.poly(obj)
 }
